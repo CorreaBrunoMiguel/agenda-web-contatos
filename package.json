@@ -1,0 +1,24 @@
+{
+  "name": "agenda-web-contatos",
+  "version": "1.0.0",
+  "description": "A empresa fictícia **Connectly** quer lançar uma versão web de sua aplicação de contatos. O MVP (Produto Mínimo Viável) deverá permitir que usuários adicionem, visualizem e filtrem contatos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorreaBrunoMiguel/agenda-web-contatos.git"
+  },
+  "keywords": [],
+  "author": "devCorrea",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/CorreaBrunoMiguel/agenda-web-contatos/issues"
+  },
+  "homepage": "https://github.com/CorreaBrunoMiguel/agenda-web-contatos#readme",
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
+}
